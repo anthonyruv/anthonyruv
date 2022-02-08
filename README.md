@@ -4,5 +4,5 @@
 REACT/JS/TS/HTML/CSS
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyruv)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyruv&show_icons=true&theme=radical)
 
