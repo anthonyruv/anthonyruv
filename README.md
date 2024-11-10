@@ -26,7 +26,7 @@ const anthonyruv = {
 <img alt="Alt text" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </h3>
 
-> [!WARNING]
+> [!CAUTION]
 > **BREAKTHROUGH PRODUCT ON THE HORIZON**
 >
 > GeyserUI is a brand new webapp under construction, focused on providing high quality full-stack templates to developers. <br><br>
